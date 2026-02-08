@@ -40,5 +40,4 @@ This project presents the complete IPL 2024 match schedule in an easy-to-underst
 - Build a real-world sports-based frontend project
 - Strengthen frontend fundamentals
 
----
 
