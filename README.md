@@ -42,24 +42,3 @@ This project presents the complete IPL 2024 match schedule in an easy-to-underst
 
 ---
 
-## 🚀 GitHub Repository
-🔗 **View Project:**  
-https://lnkd.in/d7bz8rsC
-
----
-
-## 📸 Project Preview
-*(Add screenshots here to make the project more attractive)*
-
----
-
-## 🤝 Feedback & Suggestions
-I’ve dedicated significant effort to make this project both **informative and visually appealing**.  
-Feel free to explore the project and share your **feedback or suggestions**!
-
----
-
-## ⭐ Support
-If you like this project, don’t forget to **star ⭐ the repository**!
-
-
